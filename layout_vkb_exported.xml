@@ -94,7 +94,7 @@
    <rebind input="js1_button22"/>
   </action>
   <action name="v_atc_request">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button21"/>
   </action>
   <action name="v_autoland">
    <rebind input="js2_ "/>
@@ -112,7 +112,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_ifcs_toggle_vector_decoupling">
-   <rebind input="js1_button6"/>
+   <rebind input="js2_button5"/>
   </action>
   <action name="v_pitch">
    <rebind input="js2_y"/>
@@ -197,6 +197,7 @@
  </actionmap>
  <actionmap name="spaceship_radar">
   <action name="v_invoke_ping">
+   <rebind input="kb1_tab"/>
    <rebind input="js1_button4"/>
   </action>
  </actionmap>
@@ -306,16 +307,16 @@
    <rebind input="js1_ " activationMode="press"/>
   </action>
   <action name="v_power_toggle">
-   <rebind input="js2_button9"/>
+   <rebind input="js2_ "/>
   </action>
   <action name="v_power_toggle_shields">
-   <rebind input="js2_button6"/>
+   <rebind input="js2_ "/>
   </action>
   <action name="v_power_toggle_thrusters">
-   <rebind input="js2_button7"/>
+   <rebind input="js2_ "/>
   </action>
   <action name="v_power_toggle_weapons">
-   <rebind input="js2_button8"/>
+   <rebind input="js2_ "/>
   </action>
  </actionmap>
  <actionmap name="lights_controller">
